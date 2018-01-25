@@ -2,28 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2c217bb5-2f1f-4f42-ae1e-6da9b34f0d2d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/practica_15/practica15/audio/cancion.aiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/practica_15/practica15/audio/cancion.mp2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/practica_15/practica15/audio/cancion.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/practica_15/practica15/img/vietnam.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/practica_15/practica15/img/vietnam.webp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/practica_15/practica15/video/poster.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/practica_15/practica15/video/saas.mp4" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/practica_15/practica15/video/saas.ogv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/practica_15/practica15/video/saas.webm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/practica_15/practica15/creditos.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/practica_15/practica15/img/monitor.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/practica_15/practica15/img/portatil.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/practica_15/practica15/img/smartphone.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/practica_15/practica15/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/practica_15/practica15/otros/canvas.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/practica_15/practica15/otros/math.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/practica_15/practica15/video/saas-en.srt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/practica_15/practica15/video/saas-en.vtt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/practica_15/practica15/video/saas-es.srt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/practica_15/practica15/video/saas-es.vtt" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/practica_17/cartel/cartel.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/practica_17/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tabla/TABLA02.HTML.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tabla/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -37,12 +19,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/practica_15/practica15/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+            <state relative-caret-position="459">
+              <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
               <folding>
                 <element signature="n#style#0;n#math#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -50,12 +32,54 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="canvas.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/practica_15/practica15/otros/canvas.js">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tabla/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="23" lean-forward="false" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="47" />
+            <state relative-caret-position="306">
+              <caret line="18" column="22" lean-forward="false" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/practica_17/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="578">
+              <caret line="34" column="13" lean-forward="true" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TABLA02.HTML.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tabla/TABLA02.HTML.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-4">
+              <caret line="2" column="6" lean-forward="true" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+              <folding>
+                <element signature="e#474#480#1" expanded="true" />
+                <element signature="e#498#504#1" expanded="true" />
+                <element signature="e#534#540#1" expanded="true" />
+                <element signature="e#570#576#1" expanded="true" />
+                <element signature="e#626#632#1" expanded="true" />
+                <element signature="e#650#656#1" expanded="true" />
+                <element signature="e#674#680#1" expanded="true" />
+                <element signature="e#698#704#1" expanded="true" />
+                <element signature="e#722#728#1" expanded="true" />
+                <element signature="e#746#752#1" expanded="true" />
+                <element signature="e#789#795#1" expanded="true" />
+                <element signature="e#825#831#1" expanded="true" />
+                <element signature="e#893#899#1" expanded="true" />
+                <element signature="e#983#989#1" expanded="true" />
+                <element signature="e#1019#1025#1" expanded="true" />
+                <element signature="e#1055#1061#1" expanded="true" />
+                <element signature="e#1137#1143#1" expanded="true" />
+                <element signature="e#1181#1187#1" expanded="true" />
+                <element signature="e#1205#1211#1" expanded="true" />
+                <element signature="e#1249#1255#1" expanded="true" />
+                <element signature="e#1273#1279#1" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -69,6 +93,14 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>nsbp</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>nbsp</replace>
+    </replaceStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -77,6 +109,9 @@
       <list>
         <option value="$PROJECT_DIR$/practica_15/index.html" />
         <option value="$PROJECT_DIR$/practica_15/practica15/index.html" />
+        <option value="$PROJECT_DIR$/tabla/index.html" />
+        <option value="$PROJECT_DIR$/tabla/TABLA02.HTML.html" />
+        <option value="$PROJECT_DIR$/practica_17/index.html" />
       </list>
     </option>
   </component>
@@ -86,9 +121,10 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-7" />
-    <option name="width" value="974" />
+    <option name="y" value="12" />
+    <option name="width" value="973" />
     <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -107,6 +143,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -128,42 +165,24 @@
             <path>
               <item name="proyectos" type="b2602c69:ProjectViewProjectNode" />
               <item name="proyectos" type="462c0819:PsiDirectoryNode" />
-              <item name="practica_15" type="462c0819:PsiDirectoryNode" />
-              <item name="practica15" type="462c0819:PsiDirectoryNode" />
-              <item name="audio" type="462c0819:PsiDirectoryNode" />
+              <item name="practica_17" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="proyectos" type="b2602c69:ProjectViewProjectNode" />
               <item name="proyectos" type="462c0819:PsiDirectoryNode" />
-              <item name="practica_15" type="462c0819:PsiDirectoryNode" />
-              <item name="practica15" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="proyectos" type="b2602c69:ProjectViewProjectNode" />
-              <item name="proyectos" type="462c0819:PsiDirectoryNode" />
-              <item name="practica_15" type="462c0819:PsiDirectoryNode" />
-              <item name="practica15" type="462c0819:PsiDirectoryNode" />
-              <item name="otros" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="proyectos" type="b2602c69:ProjectViewProjectNode" />
-              <item name="proyectos" type="462c0819:PsiDirectoryNode" />
-              <item name="practica_15" type="462c0819:PsiDirectoryNode" />
-              <item name="practica15" type="462c0819:PsiDirectoryNode" />
-              <item name="video" type="462c0819:PsiDirectoryNode" />
+              <item name="practica_17" type="462c0819:PsiDirectoryNode" />
+              <item name="cartel" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/practica_15/practica15/otros/math.xml" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
   </component>
@@ -196,12 +215,24 @@
       <updated>1513847223649</updated>
       <workItem from="1513847224885" duration="174000" />
       <workItem from="1515494703302" duration="1000" />
-      <workItem from="1516001669580" duration="5525000" />
+      <workItem from="1516001669580" duration="5820000" />
+      <workItem from="1516260721623" duration="5710000" />
+      <workItem from="1516605883753" duration="701000" />
+      <workItem from="1516865689033" duration="265000" />
+      <workItem from="1516865987829" duration="4761000" />
     </task>
+    <task id="LOCAL-00001" summary="practica 15">
+      <created>1516007259146</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1516007259146</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5700000" />
+    <option name="totallyTimeSpent" value="17432000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -213,16 +244,15 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="974" height="1047" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14488935" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32930845" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4006586" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3902174" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -230,6 +260,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -239,16 +270,173 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="practica 15" />
+    <option name="LAST_COMMIT_MESSAGE" value="practica 15" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/practica_15/practica15/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#math#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tabla/TABLA02.HTML.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="12" lean-forward="false" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+          <folding>
+            <element signature="e#474#480#1" expanded="true" />
+            <element signature="e#498#504#1" expanded="true" />
+            <element signature="e#534#540#1" expanded="true" />
+            <element signature="e#570#576#1" expanded="true" />
+            <element signature="e#626#632#1" expanded="true" />
+            <element signature="e#650#656#1" expanded="true" />
+            <element signature="e#674#680#1" expanded="true" />
+            <element signature="e#698#704#1" expanded="true" />
+            <element signature="e#722#728#1" expanded="true" />
+            <element signature="e#746#752#1" expanded="true" />
+            <element signature="e#789#795#1" expanded="true" />
+            <element signature="e#825#831#1" expanded="true" />
+            <element signature="e#893#899#1" expanded="true" />
+            <element signature="e#983#989#1" expanded="true" />
+            <element signature="e#1019#1025#1" expanded="true" />
+            <element signature="e#1055#1061#1" expanded="true" />
+            <element signature="e#1137#1143#1" expanded="true" />
+            <element signature="e#1181#1187#1" expanded="true" />
+            <element signature="e#1205#1211#1" expanded="true" />
+            <element signature="e#1249#1255#1" expanded="true" />
+            <element signature="e#1273#1279#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tabla/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="22" lean-forward="false" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practica_15/practica15/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#math#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tabla/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="22" lean-forward="true" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tabla/TABLA02.HTML.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="12" lean-forward="false" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+          <folding>
+            <element signature="e#474#480#1" expanded="true" />
+            <element signature="e#498#504#1" expanded="true" />
+            <element signature="e#534#540#1" expanded="true" />
+            <element signature="e#570#576#1" expanded="true" />
+            <element signature="e#626#632#1" expanded="true" />
+            <element signature="e#650#656#1" expanded="true" />
+            <element signature="e#674#680#1" expanded="true" />
+            <element signature="e#698#704#1" expanded="true" />
+            <element signature="e#722#728#1" expanded="true" />
+            <element signature="e#746#752#1" expanded="true" />
+            <element signature="e#789#795#1" expanded="true" />
+            <element signature="e#825#831#1" expanded="true" />
+            <element signature="e#893#899#1" expanded="true" />
+            <element signature="e#983#989#1" expanded="true" />
+            <element signature="e#1019#1025#1" expanded="true" />
+            <element signature="e#1055#1061#1" expanded="true" />
+            <element signature="e#1137#1143#1" expanded="true" />
+            <element signature="e#1181#1187#1" expanded="true" />
+            <element signature="e#1205#1211#1" expanded="true" />
+            <element signature="e#1249#1255#1" expanded="true" />
+            <element signature="e#1273#1279#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practica_15/practica15/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#math#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tabla/TABLA02.HTML.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="26" lean-forward="false" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+          <folding>
+            <element signature="e#474#480#1" expanded="true" />
+            <element signature="e#498#504#1" expanded="true" />
+            <element signature="e#534#540#1" expanded="true" />
+            <element signature="e#570#576#1" expanded="true" />
+            <element signature="e#626#632#1" expanded="true" />
+            <element signature="e#650#656#1" expanded="true" />
+            <element signature="e#674#680#1" expanded="true" />
+            <element signature="e#698#704#1" expanded="true" />
+            <element signature="e#722#728#1" expanded="true" />
+            <element signature="e#746#752#1" expanded="true" />
+            <element signature="e#789#795#1" expanded="true" />
+            <element signature="e#825#831#1" expanded="true" />
+            <element signature="e#893#899#1" expanded="true" />
+            <element signature="e#983#989#1" expanded="true" />
+            <element signature="e#1019#1025#1" expanded="true" />
+            <element signature="e#1055#1061#1" expanded="true" />
+            <element signature="e#1137#1143#1" expanded="true" />
+            <element signature="e#1181#1187#1" expanded="true" />
+            <element signature="e#1205#1211#1" expanded="true" />
+            <element signature="e#1249#1255#1" expanded="true" />
+            <element signature="e#1273#1279#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tabla/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="16" lean-forward="false" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practica_15/practica15/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#math#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/practica_15/practica15/creditos.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="11" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -256,7 +444,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -264,7 +451,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="11" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="944" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -272,17 +458,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practica_15/practica15/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-          <folding>
-            <element signature="n#style#0;n#math#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -290,6 +465,68 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" column="23" lean-forward="false" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/webstorm.jar!/resources/html5-schema/html5/tables.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="217" column="0" lean-forward="false" selection-start-line="214" selection-start-column="0" selection-end-line="217" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tabla/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="22" lean-forward="false" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practica_15/practica15/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#math#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tabla/TABLA02.HTML.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4">
+          <caret line="2" column="6" lean-forward="true" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+          <folding>
+            <element signature="e#474#480#1" expanded="true" />
+            <element signature="e#498#504#1" expanded="true" />
+            <element signature="e#534#540#1" expanded="true" />
+            <element signature="e#570#576#1" expanded="true" />
+            <element signature="e#626#632#1" expanded="true" />
+            <element signature="e#650#656#1" expanded="true" />
+            <element signature="e#674#680#1" expanded="true" />
+            <element signature="e#698#704#1" expanded="true" />
+            <element signature="e#722#728#1" expanded="true" />
+            <element signature="e#746#752#1" expanded="true" />
+            <element signature="e#789#795#1" expanded="true" />
+            <element signature="e#825#831#1" expanded="true" />
+            <element signature="e#893#899#1" expanded="true" />
+            <element signature="e#983#989#1" expanded="true" />
+            <element signature="e#1019#1025#1" expanded="true" />
+            <element signature="e#1055#1061#1" expanded="true" />
+            <element signature="e#1137#1143#1" expanded="true" />
+            <element signature="e#1181#1187#1" expanded="true" />
+            <element signature="e#1205#1211#1" expanded="true" />
+            <element signature="e#1249#1255#1" expanded="true" />
+            <element signature="e#1273#1279#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practica_17/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="34" column="13" lean-forward="true" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
           <folding />
         </state>
       </provider>
