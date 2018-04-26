@@ -1,0 +1,91 @@
+header{
+    background-color: black;
+    color: #d0b911;
+    position: fixed;
+    width: 100%;
+    left: 0%;
+    height: 60px;
+    top: 0px;
+}
+nav{
+    background-color: gray;
+    position: fixed;
+    color: white;
+    left: 0px;
+    width: 200px;
+    height: 100%;
+    top: 60px;
+}
+main{
+    position: absolute;
+    left: 200px;
+    top: 60px;
+    bottom: 0px;
+    right: 0px;
+    overflow: auto;
+}
+nav a{
+    text-decoration: none;
+    color: white;
+    text-align: center;
+    border: solid;
+    border-radius: 5px;
+    display: block;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+nav a:hover{
+    color: gray;
+    background-color: white;
+}
+main h1{
+    color: #d0b911;
+    border: solid;
+    border-radius: 5px;
+    text-align: center;
+    margin: 10px;
+}
+main p{
+    text-align: justify;
+    margin: 10px;
+}
+div h2{
+    display: inline-block;
+    border: none;
+    border-radius: 20px;
+    width: 300px;
+    height: 400px;
+    background-color:#d0b911 ;
+    color: white;
+    text-align: center;
+    margin: 20px;
+
+}
+div{
+    text-align: center;
+}
+div h2:nth-child(1):hover{
+    background-image: url("img/amundsen.jpg");
+    opacity: 0.5;
+}
+div h2:nth-child(2):hover{
+    background-image: url("img/nansen.jpg");
+    opacity: 0.5;
+
+}
+div h2:nth-child(3):hover{
+    background-image: url("img/scott.jpg");
+    opacity: 0.5;
+
+}
+div h2:nth-child(4):hover{
+    background-image: url("img/shackelton.jpg");
+    opacity: 0.5;
+
+}
+h2 a{
+    text-decoration: none;
+    color: white;
+    line-height: 400px;
+}
